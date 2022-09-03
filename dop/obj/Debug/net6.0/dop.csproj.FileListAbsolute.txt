@@ -1,0 +1,15 @@
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.AssemblyInfoInputs.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.AssemblyInfo.cs
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\bin\Debug\net6.0\dop.exe
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\bin\Debug\net6.0\dop.deps.json
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\bin\Debug\net6.0\dop.runtimeconfig.json
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\bin\Debug\net6.0\dop.dll
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\bin\Debug\net6.0\dop.pdb
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.dll
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\refint\dop.dll
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.pdb
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\dop.genruntimeconfig.cache
+C:\Users\missa\OneDrive\Desktop\DZ\DZ0309\dop\obj\Debug\net6.0\ref\dop.dll

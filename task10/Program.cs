@@ -7,7 +7,7 @@
 
 Console.WriteLine("Vvedite 3-zn chislo ");
 int a = Convert.ToInt32(Console.ReadLine());
-while (a < 100 || a > 1000)
+while (a < 100 || a > 999)
 {
     Console.WriteLine("are u stupid? ");
     a = Convert.ToInt32(Console.ReadLine());
